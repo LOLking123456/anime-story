@@ -1,8 +1,10 @@
+	spawn(function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/AnimeStory'))()
+end)
 
-wait(1)
-
+	spawn(function()
 loadstring(game:HttpGet('https://rawscripts.net/raw/Anime-Story-RELEASE!-a-5743'))()
+end)
 
 -- This file was generated using Luraph Obfuscator v13.4.6
 
